@@ -1,0 +1,19 @@
+h1{
+    color: rgb(218, 144, 7);
+}
+strong{
+    font-size: 10px;
+    color: white;
+}
+p,hr{
+    font-size: 15px;
+    color: rgb(211, 199, 199);
+}
+.container{
+    border: 4px solid rgba(75, 170, 66, 0.8);
+    background-color: rgba(4, 2, 37, 0.911);
+}
+.grid-container {
+    display: grid;
+    padding: 90px;
+  }
